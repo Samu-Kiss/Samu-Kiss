@@ -75,5 +75,5 @@ Además, fui el encargado del diseño e implementación del frontend de la pági
 
 ---
 
-# Temones Que Esuché Hace Poco
+# Temones Que Escuché Hace Poco
 ![Actividad Reciente en Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tu5psekd3enzvn9azm3cbgcxa&unique=1)
