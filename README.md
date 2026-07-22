@@ -72,8 +72,3 @@ Actualmente hago parte de la Junta Directiva de ACM Javeriana como Coordinador d
 Desde este rol lidero la estrategia de comunicación digital del capítulo, diseño contenidos para redes sociales, apoyo la promoción de eventos y trabajo en fortalecer la participación de la comunidad estudiantil.
 
 Además, fui el encargado del diseño e implementación del frontend de la página web de ACM Javeriana, enfocándome en la estructura visual, la experiencia de usuario y el desarrollo de interfaces responsivas.
-
----
-
-# Temones Que Escuché Hace Poco
-![Actividad Reciente en Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tu5psekd3enzvn9azm3cbgcxa&unique=1)
